@@ -1,0 +1,8 @@
+*.pyc
+*~
+
+__pycache__
+django_test
+db.sqllite3
+/static
+.DS_Store
