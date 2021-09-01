@@ -1,0 +1,1 @@
+# my-django-test-blog
